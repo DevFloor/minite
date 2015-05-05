@@ -22,3 +22,6 @@ resurrection de notre antique minitel
  - http://lea-linux.org/documentations/Pratique-minitel
  - http://caca.zoy.org/wiki/libcaca
  - https://github.com/bevacqua/hit-that
+ - 
+ - https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=44932
+ - https://www.sparkfun.com/products/12009
